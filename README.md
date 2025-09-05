@@ -1,33 +1,122 @@
-# 🤖 SAKIB BOT 4X
-
-![Sakib Bot Logo](https://github.com/vaisakib89/CYBER_SAKIB-X4/blob/main/1756629994321.jpg)
-
-**🌟 Fully Customizable Facebook Messenger Bot**  
-**Premium Features • Easy to Use • Built with ❤️ by Sakib Vai**
-
-## 👤 ABOUT ME
-
-- Name: ```SAKIB VAI```</br> 
-- Age: ```20```</br>  
-- Facebook: [FACEBOOK ID LINK](https://www.facebook.com/s.a.k.i.b.tsu.863539)</br>
-
-## 🚀 STARTUP
-
-```bash
-npm install
-
-node main/catalogs/IMRANA.js
-
-🛠️ CREDITS
-
-Original Base: BotPack by YanMaglinte
-Modified By: Sakib Vai & Ryuko</br>
-Facebook Client: fca-ws3 by Kenneth Aceberos
-
-✨ FEATURES
-
-✅ Email notifications for box approval (configurable via Config.json)
-🔧 Custom console logging (see configs/console.js)
+[
+    {
+        "key": "dbln",
+        "value": "%7B%2261578094682569%22%3A%22QGl2arVv%22%7D",
+        "domain": "facebook.com",
+        "path": "/login/device-based/",
+        "hostOnly": false,
+        "creation": "2025-09-05T16:23:22.251Z",
+        "lastAccessed": "2025-09-05T16:23:22.251Z"
+    },
+    {
+        "key": "datr",
+        "value": "vbmlaG22CWr4MkrqLP0Wyzel",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-09-05T16:23:22.251Z",
+        "lastAccessed": "2025-09-05T16:23:22.251Z"
+    },
+    {
+        "key": "sb",
+        "value": "vbmlaDB2fI3FLURuHKWxXP5d",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-09-05T16:23:22.251Z",
+        "lastAccessed": "2025-09-05T16:23:22.251Z"
+    },
+    {
+        "key": "pas",
+        "value": "61578094682569%3AobihGmt4yI",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-09-05T16:23:22.251Z",
+        "lastAccessed": "2025-09-05T16:23:22.251Z"
+    },
+    {
+        "key": "vpd",
+        "value": "v1%3B663x360x2",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-09-05T16:23:22.251Z",
+        "lastAccessed": "2025-09-05T16:23:22.251Z"
+    },
+    {
+        "key": "ps_l",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-09-05T16:23:22.251Z",
+        "lastAccessed": "2025-09-05T16:23:22.251Z"
+    },
+    {
+        "key": "ps_n",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-09-05T16:23:22.251Z",
+        "lastAccessed": "2025-09-05T16:23:22.251Z"
+    },
+    {
+        "key": "c_user",
+        "value": "61578094682569",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-09-05T16:23:22.251Z",
+        "lastAccessed": "2025-09-05T16:23:22.251Z"
+    },
+    {
+        "key": "xs",
+        "value": "7%3AIgDD10dRZHUN2Q%3A2%3A1756890206%3A-1%3A-1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-09-05T16:23:22.251Z",
+        "lastAccessed": "2025-09-05T16:23:22.251Z"
+    },
+    {
+        "key": "fr",
+        "value": "0sH3ksKBeDMp1zWEh.AWe84wTy2mFOCQ0zatjuwDspK-IRzl-Me635KLF9extrEkYqk4c.Bopbm9..AAA.0.0.BouGD1.AWcH9WtZeB4wvwftnJwY1HX4FbU",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-09-05T16:23:22.251Z",
+        "lastAccessed": "2025-09-05T16:23:22.251Z"
+    },
+    {
+        "key": "locale",
+        "value": "en_GB",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-09-05T16:23:22.251Z",
+        "lastAccessed": "2025-09-05T16:23:22.251Z"
+    },
+    {
+        "key": "fbl_st",
+        "value": "100420939%3BT%3A29284822",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-09-05T16:23:22.251Z",
+        "lastAccessed": "2025-09-05T16:23:22.251Z"
+    },
+    {
+        "key": "wl_cbv",
+        "value": "v2%3Bclient_version%3A2913%3Btimestamp%3A1757089341",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-09-05T16:23:22.251Z",
+        "lastAccessed": "2025-09-05T16:23:22.251Z"
+    }
+]🔧 Custom console logging (see configs/console.js)
 🚫 Spam prevention in ban system
 💎 Premium-only commands (enable with premium: true in command config)
 
